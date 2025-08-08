@@ -1,5 +1,7 @@
 # ilert MCP server
 
+[![Install MCP Server](https://cursor.com/deeplink/mcp-install-light.svg)](https://cursor.com/en/install-mcp?name=ilert&config=JTdCJTIydHlwZSUyMiUzQSUyMnN0cmVhbWFibGVIdHRwJTIyJTJDJTIydXJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZtY3AuaWxlcnQuY29tJTJGbWNwJTIyJTJDJTIyaGVhZGVycyUyMiUzQSU3QiUyMkF1dGhvcml6YXRpb24lMjIlM0ElMjJCZWFyZXIlMjAlN0IlN0JZT1VSLUFQSS1LRVklN0QlN0QlMjIlN0QlN0Q%3D)
+
 The official [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) server for ilert.
 
 Enables AI assistants to navigate your alerting and incident management resources on [ilert](https://www.ilert.com/).
