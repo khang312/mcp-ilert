@@ -1,6 +1,6 @@
 # ilert MCP server
 
-[![Install MCP Server](https://cursor.com/deeplink/mcp-install-light.svg)](https://cursor.com/en/install-mcp?name=ilert&config=JTdCJTIydHlwZSUyMiUzQSUyMnN0cmVhbWFibGVIdHRwJTIyJTJDJTIydXJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZtY3AuaWxlcnQuY29tJTJGbWNwJTIyJTJDJTIyaGVhZGVycyUyMiUzQSU3QiUyMkF1dGhvcml6YXRpb24lMjIlM0ElMjJCZWFyZXIlMjAlN0IlN0JZT1VSLUFQSS1LRVklN0QlN0QlMjIlN0QlN0Q%3D)
+[![Install MCP Server](https://cursor.com/deeplink/mcp-install-light.svg)](https://cursor.com/en/install-mcp?name=ilert&config=eyJ0eXBlIjoic3RyZWFtYWJsZUh0dHAiLCJ1cmwiOiJodHRwczovL21jcC5pbGVydC5jb20vbWNwIiwiaGVhZGVycyI6eyJBdXRob3JpemF0aW9uIjoiQmVhcmVyIHtZT1VSLUlMRVJULUFQSS1LRVktSEVSRX0ifX0%3D)
 
 The official [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) server for ilert.
 
